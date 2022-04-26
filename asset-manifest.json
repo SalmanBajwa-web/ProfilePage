@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/ProfilePage/static/css/main.c10df87c.chunk.css",
+    "main.js": "/ProfilePage/static/js/main.74b707a3.chunk.js",
+    "main.js.map": "/ProfilePage/static/js/main.74b707a3.chunk.js.map",
+    "runtime-main.js": "/ProfilePage/static/js/runtime-main.1986e93e.js",
+    "runtime-main.js.map": "/ProfilePage/static/js/runtime-main.1986e93e.js.map",
+    "static/js/2.0664da6f.chunk.js": "/ProfilePage/static/js/2.0664da6f.chunk.js",
+    "static/js/2.0664da6f.chunk.js.map": "/ProfilePage/static/js/2.0664da6f.chunk.js.map",
+    "index.html": "/ProfilePage/index.html",
+    "static/css/main.c10df87c.chunk.css.map": "/ProfilePage/static/css/main.c10df87c.chunk.css.map",
+    "static/js/2.0664da6f.chunk.js.LICENSE.txt": "/ProfilePage/static/js/2.0664da6f.chunk.js.LICENSE.txt",
+    "static/media/bekend1.2317160d.png": "/ProfilePage/static/media/bekend1.2317160d.png",
+    "static/media/bekend2.5a877396.png": "/ProfilePage/static/media/bekend2.5a877396.png",
+    "static/media/bekend3.f9116cfc.png": "/ProfilePage/static/media/bekend3.f9116cfc.png",
+    "static/media/bekend4.5e1ea79d.png": "/ProfilePage/static/media/bekend4.5e1ea79d.png",
+    "static/media/bekend5.8f4445d2.png": "/ProfilePage/static/media/bekend5.8f4445d2.png",
+    "static/media/bekend6.2cfbac7d.png": "/ProfilePage/static/media/bekend6.2cfbac7d.png",
+    "static/media/bekend7.e69c6382.png": "/ProfilePage/static/media/bekend7.e69c6382.png",
+    "static/media/bs.8a0c37a6.png": "/ProfilePage/static/media/bs.8a0c37a6.png",
+    "static/media/flutter_app1_img1.386be773.png": "/ProfilePage/static/media/flutter_app1_img1.386be773.png",
+    "static/media/flutter_app2_img1.5ae4ca0a.png": "/ProfilePage/static/media/flutter_app2_img1.5ae4ca0a.png",
+    "static/media/flutter_app3_img1.2d73503b.png": "/ProfilePage/static/media/flutter_app3_img1.2d73503b.png",
+    "static/media/flutter_app4_img1.21bfeef5.png": "/ProfilePage/static/media/flutter_app4_img1.21bfeef5.png",
+    "static/media/flutter_app5_img1.c6348b85.png": "/ProfilePage/static/media/flutter_app5_img1.c6348b85.png",
+    "static/media/flutter_app6_img1.544ca35e.png": "/ProfilePage/static/media/flutter_app6_img1.544ca35e.png",
+    "static/media/user.af1b72ee.png": "/ProfilePage/static/media/user.af1b72ee.png",
+    "static/media/web1.32465245.png": "/ProfilePage/static/media/web1.32465245.png",
+    "static/media/web2.c3bb7b3a.png": "/ProfilePage/static/media/web2.c3bb7b3a.png",
+    "static/media/web3.012f391d.png": "/ProfilePage/static/media/web3.012f391d.png",
+    "static/media/web4.ef48d10a.png": "/ProfilePage/static/media/web4.ef48d10a.png",
+    "static/media/web5.95e2997f.png": "/ProfilePage/static/media/web5.95e2997f.png",
+    "static/media/web6.2cdd6154.png": "/ProfilePage/static/media/web6.2cdd6154.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1986e93e.js",
+    "static/js/2.0664da6f.chunk.js",
+    "static/css/main.c10df87c.chunk.css",
+    "static/js/main.74b707a3.chunk.js"
+  ]
+}
